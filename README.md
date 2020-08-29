@@ -1,4 +1,6 @@
 ### Hi there 👋
+ Meu nome é Humberto Junior, despertei meu interesse por desenvolvimento Web em Janeiro de 2020, deste então venho me encantando cada vez mais pela áre e procurando aprendender sempre coisas novas. Sou da área de front-end e o Framework que utilizo é o VueJs, tenho conhecimento sobre: HTML, CSS, Javascript, JQuery, Vue, Vuetify, Bootstrap, Axios, POO, test com o Jest e o Firebase, além de possuir Inglês avançado.
+  Espero contribuir na área e, claro, receber ajuda e orientação para me tornar um dev melhor.
 
 <!--
 **1bertoh/1bertoh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
