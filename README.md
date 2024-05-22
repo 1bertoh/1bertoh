@@ -1,5 +1,5 @@
 ### Hi there 👋
- Meu nome é Humberto Junior, despertei meu interesse por desenvolvimento Web em Janeiro de 2020, deste então venho me encantando cada vez mais pela áre e procurando aprendender sempre coisas novas. Sou da área de front-end e o Framework que mais utilizo é o React, mas também tenho conhecimento sobre VueJs, tenho também conhecimento sobre: HTML, CSS, Javascript, JQuery, Redux, Vue, Vuetify, Bootstrap, test com o Jest, PHP, Python e o noSQL Firebase, além de possuir Inglês avançado.
+ Meu nome é Humberto Junior, despertei meu interesse por desenvolvimento Web em Janeiro de 2020, deste então venho me encantando cada vez mais pela áre e procurando aprendender sempre coisas novas. Sou da área de front-end e o Framework que mais utilizo é o React, mas também tenho conhecimento sobre VueJs, tenho também conhecimento sobre: HTML, CSS, Javascript, JQuery, Redux, Vue, Vuetify, Bootstrap, test com o Jest, PHP, Flutter, Python e o noSQL Firebase, além de possuir Inglês avançado.
   Espero contribuir na área e, claro, receber ajuda e orientação para me tornar um dev melhor.
 
 <!--
